@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Chelivano.F55117080.GIS"
